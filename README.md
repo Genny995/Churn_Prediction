@@ -66,5 +66,7 @@ For each model, the optimal hyperparameters were selected using `RandomizedSearc
 
 ### Model Evaluation and Selection
 
-After hyperparameter tuning, all models were evaluated on the test set using **Accuracy** and **Weighted F1 score** to measure their predictive performance.  
+After hyperparameter tuning, all models were evaluated on the test set using **Accuracy** and **Weighted F1 score** to measure their predictive performance.
+
+![Comparison between the four models tested](Models%20Results%20Comparison.png)
 
